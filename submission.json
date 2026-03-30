@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic documentary photograph on an athletics track. A runner is mid-stride, clearly still moving fast. Two coaches stand on the sideline — the first coach on the left is leaning forward enthusiastically, stopwatch in hand, expression excited, urging the runner to continue. The second coach on the right has their arm raised firmly in a stop signal, expression serious and concerned, eyes fixed on the runner's visibly deteriorating form — knees buckling slightly, posture collapsing. The tension between the two coaches is the focal point. The runner is caught between both signals. Late afternoon golden light, shallow depth of field, photorealistic documentary sports photography. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements. Everything must be a physical object existing in the real world.",
+  "model": " Gemini 3 Pro Image",
+  "concept": "Early Stopping",
+  "metaphor": "A coach stops a runner mid-race when a second runner representing validation performance begins to slow down, indicating further training would harm generalization."
+}
